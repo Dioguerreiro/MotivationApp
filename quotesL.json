@@ -1,119 +1,118 @@
 [
-  {
-  "workout":
-  [
    {
-      "q":"All progress takes place outside the comfort zone.",
-      "a":"Michael John Bobak"
+      "workout":[
+         {
+            "q":"All progress takes place outside the comfort zone.",
+            "a":"Michael John Bobak"
+         },
+         {
+            "q":"You may not be there yet, but you are closer than you were yesterday",
+            "a":"Seirini Pastinga"
+         },
+         {
+            "q":"A little progress each day adds up to big results",
+            "a":"Satya Nani"
+         },
+         {
+            "q":"Most people fail, not because of lack of desire, but, because of lack of commitment.",
+            "a":"Vince Lombardi"
+         },
+         {
+            "q":"Success usually comes to those who are too busy to be looking for it.",
+            "a":"Henry David Thoreau"
+         },
+         {
+            "q":"Some people want it to happen, some wish it would happen, others make it happen.",
+            "a":"Michael Jordan"
+         },
+         {
+            "q":"The first time I see a jogger smiling, I’ll consider it.",
+            "a":"Joan Rivers"
+         },
+         {
+            "q":"Look in the mirror. That’s your competition.",
+            "a":"John Assaraf"
+         },
+         {
+            "q":"Tough times don’t last. Tough people do.",
+            "a":"Robert H. Schuller"
+         },
+         {
+            "q":"Put all excuses aside and remember this: You are capable.",
+            "a":"Zig Ziglar"
+         },
+         {
+            "q":"If you think lifting is dangerous, try being weak. Being weak is dangerous.",
+            "a":"Bret Contreras"
+         },
+         {
+            "q":"The groundwork for all happiness is good health.",
+            "a":"Leigh Hunt"
+         },
+         {
+            "q":"The only place where success comes before work is in the dictionary.",
+            "a":"Vidal Sassoon"
+         },
+         {
+            "q":"Our bodies are our gardens – our wills are our gardeners.",
+            "a":"William Shakespeare"
+         },
+         {
+            "q":"If you don’t find the time, if you don’t do the work, you don’t get the results.",
+            "a":"Arnold Schwarzenegger"
+         },
+         {
+            "q":"The vision of a champion is bent over, drenched in sweat, at the point of exhaustion, when nobody else is looking.",
+            "a":"Mia Hamm"
+         },
+         {
+            "q":"If something stands between you and your success, move it. Never be denied.",
+            "a":"Dwayne Johnson"
+         },
+         {
+            "q":"It’s going to be a journey. It’s not a sprint to get in shape.",
+            "a":"Kerri Walsh Jennings"
+         },
+         {
+            "q":"Today I will do what others won’t, so tomorrow I can accomplish what others can’t.",
+            "a":"Jerry Rice"
+         },
+         {
+            "q":"Motivation is what gets you started. Habit is what keeps you going.",
+            "a":"Jim Ryun"
+         },
+         {
+            "q":"The difference between the impossible and the possible lies in a person’s determination.",
+            "a":"Tommy Lasorda"
+         },
+         {
+            "q":"We can push ourselves further. We always have more to give.",
+            "a":"Simone Biles"
+         },
+         {
+            "q":"I know that if I set my mind to something, even if people are saying I can’t do it, I will achieve it.",
+            "a":"David Beckham"
+         },
+         {
+            "q":"Confidence comes from discipline and training.",
+            "a":"Robert Kiyosaki"
+         },
+         {
+            "q":"If it doesn’t challenge you, it won’t change you.",
+            "a":"Fred Devito"
+         }
+      ]
    },
    {
-      "q":"You may not be there yet, but you are closer than you were yesterday",
-      "a":"Seirini Pastinga"
-   },
-   {
-      "q":"A little progress each day adds up to big results",
-      "a":"Satya Nani"
-   },
-   {
-      "q":"Most people fail, not because of lack of desire, but, because of lack of commitment.",
-      "a":"Vince Lombardi"
-   },
-   {
-      "q":"Success usually comes to those who are too busy to be looking for it.",
-      "a":"Henry David Thoreau"
-   },
-   {
-      "q":"Some people want it to happen, some wish it would happen, others make it happen.",
-      "a":"Michael Jordan"
-   },
-   {
-      "q":"The first time I see a jogger smiling, I’ll consider it.",
-      "a":"Joan Rivers"
-   },
-   {
-      "q":"Look in the mirror. That’s your competition.",
-      "a":"John Assaraf"
-   },
-   {
-      "q":"Tough times don’t last. Tough people do.",
-      "a":"Robert H. Schuller"
-   },
-   {
-      "q":"Put all excuses aside and remember this: You are capable.",
-      "a":"Zig Ziglar"
-   },
-   {
-      "q":"If you think lifting is dangerous, try being weak. Being weak is dangerous.",
-      "a":"Bret Contreras"
-   },
-   {
-      "q":"The groundwork for all happiness is good health.",
-      "a":"Leigh Hunt"
-   },
-   {
-      "q":"The only place where success comes before work is in the dictionary.",
-      "a":"Vidal Sassoon"
-   },
-   {
-      "q":"Our bodies are our gardens – our wills are our gardeners.",
-      "a":"William Shakespeare"
-   },
-   {
-      "q":"If you don’t find the time, if you don’t do the work, you don’t get the results.",
-      "a":"Arnold Schwarzenegger"
-   },
-   {
-      "q":"The vision of a champion is bent over, drenched in sweat, at the point of exhaustion, when nobody else is looking.",
-      "a":"Mia Hamm"
-   },
-   {
-      "q":"If something stands between you and your success, move it. Never be denied.",
-      "a":"Dwayne Johnson"
-   },
-   {
-      "q":"It’s going to be a journey. It’s not a sprint to get in shape.",
-      "a":"Kerri Walsh Jennings"
-   },
-   {
-      "q":"Today I will do what others won’t, so tomorrow I can accomplish what others can’t.",
-      "a":"Jerry Rice"
-   },
-   {
-      "q":"Motivation is what gets you started. Habit is what keeps you going.",
-      "a":"Jim Ryun"
-   },
-   {
-      "q":"The difference between the impossible and the possible lies in a person’s determination.",
-      "a":"Tommy Lasorda"
-   },
-   {
-      "q":"We can push ourselves further. We always have more to give.",
-      "a":"Simone Biles"
-   },
-   {
-      "q":"I know that if I set my mind to something, even if people are saying I can’t do it, I will achieve it.",
-      "a":"David Beckham"
-   },
-   {
-      "q":"Confidence comes from discipline and training.",
-      "a":"Robert Kiyosaki"
-   },
-   {
-      "q":"If it doesn’t challenge you, it won’t change you.",
-      "a":"Fred Devito"
-   }
-   ]
-   },
-   {"life":
-   [
-   {
-      "q":"If all the world is a stage and life is just a play upon it, get me two seats in the stalls.",
-      "a":"Robert Browning"
-   },
-   {
-      "q":"Don't go through life, GROW through life.",
-      "a":"Eric Butterworth"
-   }
-   ]
+      "life":[
+         {
+            "q":"If all the world is a stage and life is just a play upon it, get me two seats in the stalls.",
+            "a":"Robert Browning"
+         },
+         {
+            "q":"Don't go through life, GROW through life.",
+            "a":"Eric Butterworth"
+         }
+      ]
    }
 ]
