@@ -1,141 +1,174 @@
 [
    {
-      "workout":[
+      [
          {
             "q":"All progress takes place outside the comfort zone.",
-            "a":"Michael John Bobak"
+            "a":"Michael John Bobak",
+            "c":"workout"
          },
          {
             "q":"You may not be there yet, but you are closer than you were yesterday",
-            "a":"Seirini Pastinga"
+            "a":"Seirini Pastinga",
+            "c":"workout"
          },
          {
             "q":"A little progress each day adds up to big results",
-            "a":"Satya Nani"
+            "a":"Satya Nani",
+            "c":"workout"
          },
          {
             "q":"Most people fail, not because of lack of desire, but, because of lack of commitment.",
-            "a":"Vince Lombardi"
+            "a":"Vince Lombardi",
+            "c":"workout"
          },
          {
             "q":"Success usually comes to those who are too busy to be looking for it.",
-            "a":"Henry David Thoreau"
+            "a":"Henry David Thoreau",
+            "c":"workout"
          },
          {
             "q":"Some people want it to happen, some wish it would happen, others make it happen.",
-            "a":"Michael Jordan"
+            "a":"Michael Jordan",
+            "c":"workout"
          },
          {
             "q":"The first time I see a jogger smiling, I’ll consider it.",
-            "a":"Joan Rivers"
+            "a":"Joan Rivers",
+            "c":"workout"
          },
          {
             "q":"Look in the mirror. That’s your competition.",
-            "a":"John Assaraf"
+            "a":"John Assaraf",
+            "c":"workout"
          },
          {
             "q":"Tough times don’t last. Tough people do.",
-            "a":"Robert H. Schuller"
+            "a":"Robert H. Schuller",
+            "c":"workout"
          },
          {
             "q":"Put all excuses aside and remember this: You are capable.",
-            "a":"Zig Ziglar"
+            "a":"Zig Ziglar",
+            "c":"workout"
          },
          {
             "q":"If you think lifting is dangerous, try being weak. Being weak is dangerous.",
-            "a":"Bret Contreras"
+            "a":"Bret Contreras",
+            "c":"workout"
          },
          {
             "q":"The groundwork for all happiness is good health.",
-            "a":"Leigh Hunt"
+            "a":"Leigh Hunt",
+            "c":"workout"
          },
          {
             "q":"The only place where success comes before work is in the dictionary.",
-            "a":"Vidal Sassoon"
+            "a":"Vidal Sassoon",
+            "c":"workout"
          },
          {
             "q":"Our bodies are our gardens – our wills are our gardeners.",
-            "a":"William Shakespeare"
+            "a":"William Shakespeare",
+            "c":"workout"
          },
          {
             "q":"If you don’t find the time, if you don’t do the work, you don’t get the results.",
-            "a":"Arnold Schwarzenegger"
+            "a":"Arnold Schwarzenegger",
+            "c":"workout"
          },
          {
             "q":"The vision of a champion is bent over, drenched in sweat, at the point of exhaustion, when nobody else is looking.",
-            "a":"Mia Hamm"
+            "a":"Mia Hamm",
+            "c":"workout"
          },
          {
             "q":"If something stands between you and your success, move it. Never be denied.",
-            "a":"Dwayne Johnson"
+            "a":"Dwayne Johnson",
+            "c":"workout"
          },
          {
             "q":"It’s going to be a journey. It’s not a sprint to get in shape.",
-            "a":"Kerri Walsh Jennings"
+            "a":"Kerri Walsh Jennings",
+            "c":"workout"
          },
          {
             "q":"Today I will do what others won’t, so tomorrow I can accomplish what others can’t.",
-            "a":"Jerry Rice"
+            "a":"Jerry Rice",
+            "c":"workout"
          },
          {
             "q":"Motivation is what gets you started. Habit is what keeps you going.",
-            "a":"Jim Ryun"
+            "a":"Jim Ryun",
+            "c":"workout"
          },
          {
             "q":"The difference between the impossible and the possible lies in a person’s determination.",
-            "a":"Tommy Lasorda"
+            "a":"Tommy Lasorda",
+            "c":"workout"
          },
          {
             "q":"We can push ourselves further. We always have more to give.",
-            "a":"Simone Biles"
+            "a":"Simone Biles",
+            "c":"workout"
          },
          {
             "q":"I know that if I set my mind to something, even if people are saying I can’t do it, I will achieve it.",
-            "a":"David Beckham"
+            "a":"David Beckham",
+            "c":"workout"
          },
          {
             "q":"Confidence comes from discipline and training.",
-            "a":"Robert Kiyosaki"
+            "a":"Robert Kiyosaki",
+            "c":"workout"
          },
          {
             "q":"If it doesn’t challenge you, it won’t change you.",
-            "a":"Fred Devito"
+            "a":"Fred Devito",
+            "c":"workout"
          }
       ]
    },
    {
-      "life":[
+      [
          {
             "q":"If all the world is a stage and life is just a play upon it, get me two seats in the stalls.",
-            "a":"Robert Browning"
+            "a":"Robert Browning",
+            "c":"life"
          },
          {
             "q":"Don't go through life, GROW through life.",
-            "a":"Eric Butterworth"
+            "a":"Eric Butterworth",
+            "c":"life"
          },
          {
             "q":"In life, as in chess, forethought wins.",
-            "a":"Eric Butterworth"
+            "a":"Eric Butterworth",
+            "c":"life"
          },
          {
             "q":"Success is following the pattern of life one enjoys most.",
-            "a":"Eric Butterworth"
+            "a":"Eric Butterworth",
+            "c":"life"
          },
          {
             "q":"If all the world is a stage and life is just a play upon it, get me two seats in the stalls.",
-            "a":"Al Capp"
+            "a":"Al Capp",
+            "c":"life"
          },
          {
             "q":"A well written life is almost as rare as a well spent one.",
-            "a":"Thomas Carlyle"
+            "a":"Thomas Carlyle",
+            "c":"life"
          },
          {
             "q":"Life is a succession of lessons which must be lived to be understood.",
-            "a":"Thomas Carlyle"
+            "a":"Thomas Carlyle",
+            "c":"life"
          },
          {
             "q":"One life - a little gleam of Time between two Eternities.",
-            "a":"Thomas Carlyle"
+            "a":"Thomas Carlyle",
+            "c":"life"
          }
       ]
    }
