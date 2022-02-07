@@ -169,7 +169,171 @@
             "q":"One life - a little gleam of Time between two Eternities.",
             "a":"Thomas Carlyle",
             "c":"life"
+         },
+         {
+            "q":"The best thing to do with the best things in life is to give them up.",
+            "a":"Dorothy Day",
+            "c":"life"
+         },
+         {
+            "q":"A life of leisure and a life of laziness are two different things.",
+            "a":"Benjamin Franklin",
+            "c":"life"
+         },
+         {
+            "q":"Life can only be understood backwards; but it must be lived forwards.",
+            "a":"Kahlil Gibran",
+            "c":"life"
+         },
+         {
+            "q":"Do not take life too seriously; you will never get out of it alive.",
+            "a":"Elbert Hubbard",
+            "c":"life"
+         },
+         {
+            "q":"The best use of life is to spend it for something that outlasts life.",
+            "a":"William James",
+            "c":"life"
+         },
+         {
+            "q":"Live you life while you have it. Life is a splendid gift - there is nothing small about it.",
+            "a":"Florence Nightingale",
+            "c":"life"
+         },
+         {
+            "q":"Far and away the best prize that life has to offer is the chance to work hard at work worth doing.",
+            "a":"Theodore Roosevelt",
+            "c":"life"
+         },
+         {
+            "q":"A great secret of success is to go through life as a man who never gets used up.",
+            "a":"Albert Schweitzer",
+            "c":"life"
+         },
+         {
+            "q":"We make a living by what we get. We make a life by what we give.",
+            "a":"Winston Churchill",
+            "c":"life"
+         },
+         {
+            "q":"Character develops itself in the stream of life.",
+            "a":"Johann Wolfgang von Goethe",
+            "c":"life"
+         },
+         {
+            "q":"Our care should not be to have lived long as to have lived enough.",
+            "a":"Lucius Annaeus Seneca",
+            "c":"life"
+         },
+         {
+            "q":"Begin at once to live, and count each separate day as a separate life.",
+            "a":"Lucius Annaeus Seneca",
+            "c":"life"
          }
+      ]
+   },
+   {
+      "success":[
+         {
+            "q":"Eighty percent of success is showing up.",
+            "a":"Woody Allen",
+            "c":"success"
+         },
+         {
+            "q":"Try not to become a man of success but rather to become a man of value.",
+            "a":"Albert Einstein",
+            "c":"success"
+         },
+         {
+            "q":"Success is getting what you want. Happiness is wanting what you get.",
+            "a":"Dale Carnegie",
+            "c":"success"
+         },
+         {
+            "q":"Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "a":"Winston Churchill",
+            "c":"success"
+         },
+         {
+            "q":"It is no use saying We are doing our best. You have got to succeed in doing what is necessary.",
+            "a":"Winston Churchill",
+            "c":"success"
+         },
+         {
+            "q":"The first and most important step toward success is the feeling that we can succeed.",
+            "a":"Nelson Boswell",
+            "c":"success"
+         },
+         {
+            "q":"The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.",
+            "a":"Mark Caine",
+            "c":"success"
+         },
+         {
+            "q":"Failure is the condiment that gives success its flavor.",
+            "a":"Truman Capote",
+            "c":"success"
+         },
+         {
+            "q":"Nobody succeeds beyond his or her wildest expectations unless he or she begins with some wild expectations.",
+            "a":"Ralph Charell",
+            "c":"success"
+         },
+         {
+            "q":"Always bear in mind that your own resolution to success is more important than any other one thing.",
+            "a":"Abraham Lincoln",
+            "c":"success"
+         },
+         {
+            "q":"The path to success is to take massive, determined action.",
+            "a":"Anthony Robbins",
+            "c":"success"
+         },
+         {
+            "q":"Put your heart, mind, intellect and soul even to your smallest acts. This is the secret of success.",
+            "a":"Edith Sitwell",
+            "c":"success"
+         },
+         {
+            "q":"It is not the going out of the port, but the coming in, that determines the success of a voyage.",
+            "a":"Henry Ward Beecher",
+            "c":"success"
+         },
+         {
+            "q":"Often a certain abdication of prudence and foresight is an element of success.",
+            "a":"Ralph Waldo Emerson",
+            "c":"success"
+         },
+         {
+            "q":"The surest way not to fail is to determine to succeed.",
+            "a":"Lucius Annaeus Seneca",
+            "c":"success"
+         },
+         {
+            "q":"Success is a journey, not a destination.",
+            "a":"Arthur Ashe",
+            "c":"success"
+         },
+         {
+            "q":"Success is where preparation and opportunity meet.",
+            "a":"Bobby Unser",
+            "c":"success"
+         },
+         {
+            "q":"Success is how high you bounce when you hit bottom.",
+            "a":"Gen. George Patton",
+            "c":"success"
+         },
+         {
+            "q":"Success is the progressive realization of predetermined, worthwhile, personal goals.",
+            "a":"Paul J. Meyer",
+            "c":"success"
+         },
+         {
+            "q":"Success is walking from failure to failure with no loss of enthusiasm.",
+            "a":"Winston Churchill",
+            "c":"success"
+         },
       ]
    }
 ]
