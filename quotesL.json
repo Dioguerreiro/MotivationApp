@@ -395,5 +395,50 @@
             "c":"success"
          }
       ]
+   },
+   {
+      "goals":[
+         {
+            "q":"If you’re bored with life – you don’t get up every morning with a burning desire to do things – you don’t have enough goals.",
+            "a":"Lou Holtze",
+            "c":"goals"
+         }
+      ]
+   },
+   {
+      "challenge":[
+         {
+            "q":"Challenge and adversity are meant to help you know who you are. Storms hit your weakness, but unlock your true strength.",
+            "a":"Roy T. Bennett",
+            "c":"challenge"
+         }
+      ]
+   },
+   {
+      "weakness":[
+         {
+            "q":"Every weakness contains within itself a strength.",
+            "a":"Shusaku Endo",
+            "c":"weakness"
+         }
+      ]
+   },
+   {
+      "dreams":[
+         {
+            "q":"There is only one thing that makes a dream impossible to achieve: the fear of failure.",
+            "a":"Paulo Coelho",
+            "c":"dreams"
+         }
+      ]
+   },
+   {
+      "pain":[
+         {
+            "q":"Pain is temporary. Quitting lasts forever.",
+            "a":" Lance Armstrong",
+            "c":"pain"
+         }
+      ]
    }
 ]
